@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.AssemblyInfo.cs
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.sourcelink.json
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\bin\Debug\net9.0\semana12_practica.exe
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\bin\Debug\net9.0\semana12_practica.deps.json
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\bin\Debug\net9.0\semana12_practica.runtimeconfig.json
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\bin\Debug\net9.0\semana12_practica.dll
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\bin\Debug\net9.0\semana12_practica.pdb
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.dll
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\refint\semana12_practica.dll
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.pdb
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\semana12_practica.genruntimeconfig.cache
+C:\Users\User\Desktop\PROYECTOS_VISUAL\semana12_practica\obj\Debug\net9.0\ref\semana12_practica.dll
